@@ -1,3 +1,2 @@
 ## TP15 - Express - Middlewares
-- Fecha de inicio:  22 de Agosto.
-- Fecha de entrega:  29 de Agosto.
+- El plazo de entrega del trabajo fue del 22 de Agosto al 29 de Agosto de 2022.
